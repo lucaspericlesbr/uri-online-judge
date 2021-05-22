@@ -14,5 +14,7 @@ Obs.: don't forget the endline after all.
 
 A = int(input(''))
 B = int(input(''))
+
 X = A + B
+
 print('X = {}'.format(X))
