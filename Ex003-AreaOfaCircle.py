@@ -15,4 +15,5 @@ Use all double precision variables. Like all the problems, don't forget to print
 r = float(input())
 pi = 3.14159
 a = pi * r**2
+
 print('A={:.4f}'.format(a))
